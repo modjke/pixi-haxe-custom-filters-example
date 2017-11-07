@@ -1,0 +1,8 @@
+-lib hxmlinstall:0.0.6
+
+#git https://github.com/modjke/pixi-haxe 763a3353ec9c61b95448f28c6fcbf13a7a2e7245
+-lib pixijs:git
+
+-cp src
+-main filters.custom.Main
+-js bin/js/main.js
