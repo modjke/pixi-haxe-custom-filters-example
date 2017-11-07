@@ -1,6 +1,6 @@
 -lib hxmlinstall:0.0.6
 
-#git https://github.com/modjke/pixi-haxe 763a3353ec9c61b95448f28c6fcbf13a7a2e7245
+#git https://github.com/modjke/pixi-haxe de390c03b8ef22b7fc0d6d4e5408dab1be6197e4
 -lib pixijs:git
 
 -cp src
